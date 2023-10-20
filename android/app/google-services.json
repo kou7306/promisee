@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884151832412",
+    "project_id": "promisee-30dd7",
+    "storage_bucket": "promisee-30dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884151832412:android:77a3baad09a8b008fabb99",
+        "android_client_info": {
+          "package_name": "com.example.promisee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkdtb6QX3HG96NNClNHM8vK9KTS5lnK64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
